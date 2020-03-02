@@ -1,3 +1,13 @@
+<h1 align="center">React Tic Tac Toe</h1>
+
+https://reactjs.org/tutorial/tutorial.html
+
+## Based on
+
+<a href="https://reactjs.org/tutorial/tutorial.html">Reactjs tutorial tic-tac-toe</a>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
